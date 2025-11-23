@@ -1,0 +1,5 @@
+host,criticidade
+http://testphp.vulnweb.com,5
+bancocn.com,4
+192.168.1.10,3
+192.168.1.20,1
