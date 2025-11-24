@@ -1,7 +1,6 @@
 # Thiago Pereira da Silva
 # Lucas Metodio
 # Victor Donega
-# Cintia Ramos
 
 
 import os
